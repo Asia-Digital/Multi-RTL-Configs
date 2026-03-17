@@ -1,11 +1,11 @@
 [
-  { "id": "chatgpt", "name": "ChatGPT", "file": "multi-rtl_config_ChatGPT.json" },
-  { "id": "claude", "name": "Claude", "file": "multi-rtl_config_Claude.json" },
-  { "id": "claudecode", "name": "Claude Code (Web)", "file": "multi-rtl_config_ClaudeCode.json" },
-  { "id": "gemini", "name": "Gemini", "file": "multi-rtl_config_Gemini.json" },
-  { "id": "kimi", "name": "Kimi", "file": "multi-rtl_config_Kimi.json" },
-  { "id": "notebooklm", "name": "NotebookLM", "file": "multi-rtl_config_NotebookLM.json" },
-  { "id": "perplexity", "name": "Perplexity", "file": "multi-rtl_config_Perplexity.json" },
-  { "id": "slack", "name": "Slack", "file": "multi-rtl_config_Slack.json" },
-  { "id": "whatsapp", "name": "WhatsApp", "file": "multi-rtl_config_WhatsApp.json" }
+  { "id": "chatgpt", "name": "ChatGPT", "file": "multi-rtl_config_ChatGPT.json", "description": "Prompt textarea, sidebar items, math formulas" },
+  { "id": "claude", "name": "Claude", "file": "multi-rtl_config_Claude.json", "description": "Responses, prompt, chat title, sidebar, user messages" },
+  { "id": "claudecode", "name": "Claude Code (Web)", "file": "multi-rtl_config_ClaudeCode.json", "description": "Agent messages, user messages, chat list, input fields" },
+  { "id": "gemini", "name": "Gemini", "file": "multi-rtl_config_Gemini.json", "description": "Response containers" },
+  { "id": "kimi", "name": "Kimi", "file": "multi-rtl_config_Kimi.json", "description": "Chat messages, chat title, sidebar items" },
+  { "id": "notebooklm", "name": "NotebookLM", "file": "multi-rtl_config_NotebookLM.json", "description": "Messages, notebook title, summary, follow-up suggestions" },
+  { "id": "perplexity", "name": "Perplexity", "file": "multi-rtl_config_Perplexity.json", "description": "Agent responses, user messages" },
+  { "id": "slack", "name": "Slack", "file": "multi-rtl_config_Slack.json", "description": "Message content, headers, text editor" },
+  { "id": "whatsapp", "name": "WhatsApp", "file": "multi-rtl_config_WhatsApp.json", "description": "Incoming messages" }
 ]
