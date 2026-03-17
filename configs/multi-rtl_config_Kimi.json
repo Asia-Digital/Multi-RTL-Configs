@@ -1,0 +1,219 @@
+{
+  "domains": {
+	  "www.kimi.com": {
+      "masterEnabled": true,
+      "selectors": [
+        {
+          "applyDirection": true,
+          "applyTextAlign": true,
+          "autoApply": true,
+          "builder": {
+            "candidates": [
+              {
+                "startTagText": "<body>"
+              },
+              {
+                "startTagText": "<div id=\"app\">"
+              },
+              {
+                "startTagText": "<div class=\"n-config-provider\" data-v-3cdca8ad>"
+              },
+              {
+                "startTagText": "<div class=\"app has-sidebar\" data-v-3cdca8ad>"
+              },
+              {
+                "startTagText": "<div class=\"main\" data-v-3cdca8ad>"
+              },
+              {
+                "startTagText": "<div data-v-1ff57310 data-v-b308b9a1 id=\"page-layout-container\" class=\"layout-container\">"
+              },
+              {
+                "startTagText": "<div data-v-1ff57310 id=\"chat-container\" class=\"layout-content\">"
+              },
+              {
+                "startTagText": "<div data-v-1ff57310 class=\"layout-header\">"
+              },
+              {
+                "startTagText": "<div data-v-1ff57310 class=\"header-center\">"
+              },
+              {
+                "startTagText": "<div data-v-2b360a7a data-v-b308b9a1 class=\"chat-header\">"
+              },
+              {
+                "startTagText": "<header data-v-2b360a7a class=\"chat-header-content\">"
+              },
+              {
+                "startTagText": "<h2 data-v-2b360a7a>"
+              },
+              {
+                "startTagText": "<svg data-v-2b360a7a xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" role=\"img\" width=\"1em\" height=\"1em\" viewBox=\"0 0 1024 1024\" name=\"Down_b\" class=\"iconify menu-arrow\">"
+              },
+              {
+                "startTagText": "<path d=\"M482.95936 717.33248a36.864 36.864 0 0 0 52.0192-0.08192l285.696-285.696a36.864 36.864 0 1 0-52.10112-52.10112l-259.72736 259.6864-261.69344-259.80928a36.864 36.864 0 1 0-51.93728 52.34688l287.744 285.65504z\" fill=\"currentColor\">"
+              }
+            ],
+            "propertyState": {
+              "attributes": [],
+              "classes": []
+            },
+            "selectedIndex": 10,
+            "type": "inspector"
+          },
+          "contentSelector": "",
+          "description": "Chat Title",
+          "forceRTL": false,
+          "id": "sel_1773758203816_fxkkolchd",
+          "isEnabled": true,
+          "selector": "header.chat-header-content"
+        },
+        {
+          "applyDirection": true,
+          "applyTextAlign": true,
+          "autoApply": true,
+          "builder": {
+            "candidates": [
+              {
+                "startTagText": "<body>"
+              },
+              {
+                "startTagText": "<div id=\"app\">"
+              },
+              {
+                "startTagText": "<div class=\"n-config-provider\" data-v-3cdca8ad>"
+              },
+              {
+                "startTagText": "<div class=\"app has-sidebar\" data-v-3cdca8ad>"
+              },
+              {
+                "startTagText": "<div class=\"sidebar-placeholder not-mobile mobile-fold\" data-v-3cdca8ad data-v-d531ad5b>"
+              },
+              {
+                "startTagText": "<aside class=\"sidebar\" data-v-d531ad5b>"
+              },
+              {
+                "startTagText": "<div class=\"sidebar-nav\" data-v-d531ad5b>"
+              },
+              {
+                "startTagText": "<div class=\"history-part\" data-v-d531ad5b>"
+              },
+              {
+                "startTagText": "<ul data-v-d531ad5b>"
+              },
+              {
+                "startTagText": "<li>"
+              },
+              {
+                "startTagText": "<a data-v-206be24c aria-current=\"page\" href=\"/chat/19cfc337-fb82-89ea-8000-09101c23ba7c?chat_enter_method=history\" class=\"router-link-active router-link-exact-active chat-info-item\">"
+              },
+              {
+                "startTagText": "<div data-v-206be24c class=\"chat-info\">"
+              },
+              {
+                "startTagText": "<span data-v-206be24c class=\"chat-name\">"
+              },
+              {
+                "startTagText": "<div data-v-206be24c class=\"more-btn\">"
+              },
+              {
+                "startTagText": "<svg data-v-206be24c xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" role=\"img\" width=\"16\" height=\"16\" viewBox=\"0 0 1024 1024\" name=\"More\" class=\"iconify\">"
+              },
+              {
+                "startTagText": "<path d=\"M266.24 524.288a61.44 61.44 0 1 1-122.88 0 61.44 61.44 0 0 1 122.88 0zM573.44 524.288a61.44 61.44 0 1 1-122.88 0 61.44 61.44 0 0 1 122.88 0zM819.2 585.728a61.44 61.44 0 1 0 0-122.88 61.44 61.44 0 0 0 0 122.88z\" fill=\"currentColor\">"
+              }
+            ],
+            "propertyState": {
+              "attributes": [],
+              "classes": []
+            },
+            "selectedIndex": 10,
+            "type": "inspector"
+          },
+          "contentSelector": "",
+          "description": "Side bar items - chat titles",
+          "forceRTL": false,
+          "id": "sel_1773758180791_6vze6ucoi",
+          "isEnabled": true,
+          "selector": "a.router-link-active.router-link-exact-active.chat-info-item"
+        },
+        {
+          "applyDirection": true,
+          "applyTextAlign": true,
+          "autoApply": true,
+          "builder": {
+            "candidates": [
+              {
+                "startTagText": "<body>"
+              },
+              {
+                "startTagText": "<div id=\"app\">"
+              },
+              {
+                "startTagText": "<div class=\"n-config-provider\" data-v-3cdca8ad>"
+              },
+              {
+                "startTagText": "<div class=\"app has-sidebar\" data-v-3cdca8ad>"
+              },
+              {
+                "startTagText": "<div class=\"main\" data-v-3cdca8ad>"
+              },
+              {
+                "startTagText": "<div data-v-1ff57310 data-v-b308b9a1 id=\"page-layout-container\" class=\"layout-container\">"
+              },
+              {
+                "startTagText": "<div data-v-1ff57310 id=\"chat-container\" class=\"layout-content\">"
+              },
+              {
+                "startTagText": "<div data-v-1ff57310 class=\"layout-content-main\">"
+              },
+              {
+                "startTagText": "<div data-v-b308b9a1 class=\"chat-page chat\">"
+              },
+              {
+                "startTagText": "<div data-v-b308b9a1 class=\"chat-detail-content\">"
+              },
+              {
+                "startTagText": "<div data-v-b308b9a1 class=\"chat-detail-main\">"
+              },
+              {
+                "startTagText": "<div data-v-b308b9a1 class=\"chat-content-container\">"
+              },
+              {
+                "startTagText": "<div data-v-b308b9a1 class=\"chat-content-list\">"
+              },
+              {
+                "startTagText": "<div data-v-b308b9a1 class=\"chat-content-item chat-content-item-user\">"
+              },
+              {
+                "startTagText": "<div data-v-32439804 data-v-b308b9a1 class=\"segment segment-user\">"
+              },
+              {
+                "startTagText": "<div data-v-32439804 class=\"segment-container\">"
+              },
+              {
+                "startTagText": "<div data-v-32439804 class=\"segment-content\">"
+              },
+              {
+                "startTagText": "<div data-v-32439804 class=\"segment-content-box\">"
+              },
+              {
+                "startTagText": "<div data-v-43699a65 data-v-0460602e class=\"user-content\">"
+              }
+            ],
+            "propertyState": {
+              "attributes": [],
+              "classes": []
+            },
+            "selectedIndex": 17,
+            "type": "inspector"
+          },
+          "contentSelector": "",
+          "description": "Chat Messages (agent + user)",
+          "forceRTL": false,
+          "id": "sel_1773758021033_4vfu1ch50",
+          "isEnabled": true,
+          "selector": "div.segment-content-box"
+        }
+      ]
+    }
+  }
+}

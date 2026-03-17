@@ -1,0 +1,41 @@
+{
+  "domains": {
+    "app.slack.com": {
+      "loadDelay": 8000,
+      "masterEnabled": true,
+      "selectors": [
+        {
+          "applyDirection": true,
+          "applyTextAlign": true,
+          "autoApply": true,
+          "description": "מיישר את התוכן של ההודעה",
+          "forceRTL": false,
+          "id": "slack_content",
+          "isEnabled": true,
+          "selector": ".p-rich_text_block"
+        },
+        {
+          "applyDirection": true,
+          "applyTextAlign": true,
+          "autoApply": true,
+          "description": "מיישר את ה-HEADER של ההודעה",
+          "forceRTL": true,
+          "id": "slack_header",
+          "isEnabled": true,
+          "selector": ".c-message_kit__gutter"
+        },
+        {
+          "applyDirection": true,
+          "applyTextAlign": true,
+          "autoApply": true,
+          "description": "מיישר את הטקסט בתיבת הטקסט",
+          "forceRTL": false,
+          "id": "slack_editor",
+          "isEnabled": true,
+          "selector": ".ql-editor"
+        }
+      ]
+    }
+  },
+  "version": "1.0.0"
+}

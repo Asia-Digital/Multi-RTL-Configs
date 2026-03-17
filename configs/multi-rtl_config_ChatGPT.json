@@ -1,0 +1,166 @@
+{
+  "domains": {
+    "chatgpt.com": {
+      "masterEnabled": true,
+      "selectors": [
+        {
+          "applyDirection": true,
+          "applyTextAlign": false,
+          "autoApply": true,
+          "builder": {
+            "type": "text"
+          },
+          "contentSelector": "",
+          "description": "ChatGPT prompt textarea",
+          "forceRTL": false,
+          "id": "chatgpt_prompt",
+          "isEnabled": true,
+          "selector": "[id^=\"prompt-textarea\"]"
+        },
+        {
+          "applyDirection": true,
+          "applyTextAlign": true,
+          "autoApply": true,
+          "builder": {
+            "candidates": [
+              { "startTagText": "<body class>" },
+              { "startTagText": "<div class=\"flex h-svh w-screen flex-col\">" },
+              { "startTagText": "<div class=\"relative z-0 flex min-h-0 w-full flex-1\">" },
+              { "startTagText": "<div class=\"relative flex min-h-0 w-full flex-1\">" },
+              { "startTagText": "<div class=\"border-token-border-light relative z-21 h-full shrink-0 overflow-hidden border-e max-md:hidden print:hidden\" id=\"stage-slideover-sidebar\">" },
+              { "startTagText": "<div class=\"relative flex h-full flex-col\">" },
+              { "startTagText": "<div class=\"opacity-100 motion-safe:transition-opacity motion-safe:duration-150 motion-safe:ease-linear h-full w-(--sidebar-width) overflow-x-clip overflow-y-auto text-clip whitespace-nowrap bg-(--sidebar-bg,var(--bg-elevated-secondary))\">" },
+              { "startTagText": "<nav class=\"group/scrollport relative flex h-full w-full flex-1 flex-col overflow-y-auto transition-opacity motion-safe:duration-500\" aria-label=\"Chat history\" data-scrolled-from-end>" },
+              { "startTagText": "<div class=\"group/sidebar-expando-section mb-[var(--sidebar-expanded-section-margin-bottom)]\">" },
+              { "startTagText": "<a tabindex=\"0\" data-fill class=\"group __menu-item hoverable\" data-sidebar-item=\"true\" href=\"/g/g-FeFh293Kc-mtvrgmn-m-bryt-lsprdyt-vbkhzrh\" data-discover=\"true\">" },
+              { "startTagText": "<div class=\"flex min-w-0 items-center gap-1.5\">" },
+              { "startTagText": "<div class=\"flex items-center justify-center group-disabled:opacity-50 group-data-disabled:opacity-50 icon\">" },
+              { "startTagText": "<div class=\"overflow-hidden rounded-full icon\">" },
+              { "startTagText": "<img class=\"bg-token-tertiary h-full w-full\" alt width=\"80\" height=\"80\" src=\"https://chatgpt.com/backend-api/estuary/content?id=file-fZzBBbSUdKcW6ekpIUmhhirF&amp;gizmo_id=g-FeFh293Kc&amp;ts=490883&amp;p=gpp&amp;cid=1&amp;sig=a41bd0d410f4ed8d550b7a371f96b3623551b8f1543f9eb3d21e70cb660dbff2&amp;v=0\">" },
+              { "startTagText": "<div class=\"flex min-w-0 grow items-center gap-2.5\">" },
+              { "startTagText": "<div class=\"truncate\" title=\"מתורגמן מעברית לספרדית ובחזרה\">" },
+              { "startTagText": "<div class=\"trailing highlight text-token-text-tertiary\">" },
+              { "startTagText": "<button tabindex=\"0\" data-trailing-button class=\"__menu-item-trailing-btn\" type=\"button\" id=\"radix-_r_6j_\" aria-haspopup=\"menu\" aria-expanded=\"false\" data-state=\"closed\">" },
+              { "startTagText": "<div>" },
+              { "startTagText": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" aria-hidden=\"true\" class=\"icon\">" },
+              { "startTagText": "<use href=\"/cdn/assets/sprites-core-i9agxugi.svg#f6d0e2\" fill=\"currentColor\">" }
+            ],
+            "propertyState": {
+              "attributes": [
+                { "checked": false, "mode": "equals", "name": "a", "value": "" },
+                { "checked": false, "mode": "equals", "name": "tabindex", "value": "0" },
+                { "checked": false, "mode": "equals", "name": "data-fill", "value": "" },
+                { "checked": true, "mode": "equals", "name": "data-sidebar-item", "value": "true" },
+                { "checked": false, "mode": "equals", "name": "href", "value": "/g/g-FeFh293Kc-mtvrgmn-m-bryt-lsprdyt-vbkhzrh" },
+                { "checked": false, "mode": "equals", "name": "data-discover", "value": "true" }
+              ],
+              "classes": ["__menu-item"]
+            },
+            "selectedIndex": 9,
+            "type": "inspector"
+          },
+          "contentSelector": "",
+          "description": "",
+          "forceRTL": false,
+          "id": "sel_1767182289611_ird3uexn2",
+          "isEnabled": true,
+          "selector": "a.__menu-item[data-sidebar-item=\"true\"]"
+        },
+        {
+          "applyDirection": true,
+          "applyTextAlign": true,
+          "autoApply": true,
+          "builder": {
+            "candidates": [
+              { "startTagText": "<body class>" },
+              { "startTagText": "<div class=\"flex h-svh w-screen flex-col\">" },
+              { "startTagText": "<div class=\"relative z-0 flex min-h-0 w-full flex-1\">" },
+              { "startTagText": "<div class=\"relative flex min-h-0 w-full flex-1\">" },
+              { "startTagText": "<div class=\"@container/main relative flex min-w-0 flex-1 flex-col -translate-y-[calc(env(safe-area-inset-bottom,0px)/2)] pt-[calc(env(safe-area-inset-bottom,0px)/2)]\">" },
+              { "startTagText": "<div data-scroll-root=\"true\" class=\"@w-sm/main:[scrollbar-gutter:stable_both-edges] touch:[scrollbar-width:none] relative flex min-h-0 min-w-0 flex-1 flex-col [scrollbar-gutter:stable] not-print:overflow-x-clip not-print:overflow-y-auto\">" },
+              { "startTagText": "<main class=\"min-h-0 flex-1\" id=\"main\" z-index=\"-1\">" },
+              { "startTagText": "<div id=\"thread\" class=\"group/thread flex flex-col min-h-full\">" },
+              { "startTagText": "<div role=\"presentation\" class=\"composer-parent flex flex-1 flex-col focus-visible:outline-0\">" },
+              { "startTagText": "<div class=\"relative basis-auto flex-col -mb-(--composer-overlap-px) [--composer-overlap-px:28px] grow flex\">" },
+              { "startTagText": "<div class=\"flex flex-col text-sm pb-25\">" },
+              { "startTagText": "<article class=\"text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;:has([data-writing-block])>*]:pointer-events-auto [content-visibility:auto] supports-[content-visibility:auto]:[contain-intrinsic-size:auto_100lvh] scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]\" tabindex=\"-1\" dir=\"auto\" data-turn-id=\"b1094882-0278-4889-a0e7-a64cf2feb08b\" data-testid=\"conversation-turn-2\" data-scroll-anchor=\"false\" data-turn=\"assistant\">" },
+              { "startTagText": "<div class=\"text-base my-auto mx-auto [--thread-content-margin:--spacing(4)] @w-sm/main:[--thread-content-margin:--spacing(6)] @w-lg/main:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)\">" },
+              { "startTagText": "<div class=\"[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn\" tabindex=\"-1\">" },
+              { "startTagText": "<div class=\"flex max-w-full flex-col grow\">" },
+              { "startTagText": "<div data-message-author-role=\"assistant\" data-message-id=\"6bc433b7-06f3-4062-9f54-763c44cc3fd0\" dir=\"auto\" class=\"min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-1\" data-message-model-slug=\"gpt-5-2\">" },
+              { "startTagText": "<div class=\"flex w-full flex-col gap-1 empty:hidden first:pt-[1px]\">" },
+              { "startTagText": "<div class=\"markdown prose dark:prose-invert w-full break-words light markdown-new-styling\">" },
+              { "startTagText": "<span class=\"katex-display\">" },
+              { "startTagText": "<span class=\"katex\">" },
+              { "startTagText": "<span class=\"katex-html\" aria-hidden=\"true\">" },
+              { "startTagText": "<span class=\"base\">" },
+              { "startTagText": "<span class=\"strut\">" },
+              { "startTagText": "<span class=\"mord mathnormal\">" },
+              { "startTagText": "<span class=\"mspace\">" },
+              { "startTagText": "<span class=\"mrel\">" },
+              { "startTagText": "<span class=\"mspace\">" },
+              { "startTagText": "<span class=\"base\">" },
+              { "startTagText": "<span class=\"strut\">" },
+              { "startTagText": "<span class=\"minner\">" },
+              { "startTagText": "<span class=\"mopen delimcenter\">" },
+              { "startTagText": "<span class=\"delimsizing size3\">" },
+              { "startTagText": "<span class=\"mord\">" },
+              { "startTagText": "<span class=\"mtable\">" },
+              { "startTagText": "<span class=\"col-align-c\">" },
+              { "startTagText": "<span class=\"vlist-t vlist-t2\">" },
+              { "startTagText": "<span class=\"vlist-r\">" },
+              { "startTagText": "<span class=\"vlist\">" },
+              { "startTagText": "<span>" },
+              { "startTagText": "<span class=\"pstrut\">" },
+              { "startTagText": "<span class=\"mord\">" },
+              { "startTagText": "<span class=\"mord\">" },
+              { "startTagText": "<span>" },
+              { "startTagText": "<span class=\"pstrut\">" },
+              { "startTagText": "<span class=\"mord\">" },
+              { "startTagText": "<span class=\"mord\">" },
+              { "startTagText": "<span class=\"vlist-s\">" },
+              { "startTagText": "<span class=\"vlist-r\">" },
+              { "startTagText": "<span class=\"vlist\">" },
+              { "startTagText": "<span>" },
+              { "startTagText": "<span class=\"arraycolsep\">" },
+              { "startTagText": "<span class=\"arraycolsep\">" },
+              { "startTagText": "<span class=\"col-align-c\">" },
+              { "startTagText": "<span class=\"vlist-t vlist-t2\">" },
+              { "startTagText": "<span class=\"vlist-r\">" },
+              { "startTagText": "<span class=\"vlist\">" },
+              { "startTagText": "<span>" },
+              { "startTagText": "<span class=\"pstrut\">" },
+              { "startTagText": "<span class=\"mord\">" },
+              { "startTagText": "<span class=\"mord\">" },
+              { "startTagText": "<span>" },
+              { "startTagText": "<span class=\"pstrut\">" },
+              { "startTagText": "<span class=\"mord\">" },
+              { "startTagText": "<span class=\"mord\">" },
+              { "startTagText": "<span class=\"vlist-s\">" },
+              { "startTagText": "<span class=\"vlist-r\">" },
+              { "startTagText": "<span class=\"vlist\">" },
+              { "startTagText": "<span>" },
+              { "startTagText": "<span class=\"mclose delimcenter\">" },
+              { "startTagText": "<span class=\"delimsizing size3\">" }
+            ],
+            "propertyState": {
+              "attributes": [
+                { "checked": false, "mode": "equals", "name": "span", "value": "" }
+              ],
+              "classes": ["katex-display"]
+            },
+            "selectedIndex": 18,
+            "type": "inspector"
+          },
+          "contentSelector": "",
+          "description": "",
+          "forceRTL": false,
+          "id": "sel_1767175853927_cramc5h6i",
+          "isEnabled": true,
+          "selector": "span.katex-display"
+        }
+      ]
+    }
+  },
+  "version": "1.0.0"
+}

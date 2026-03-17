@@ -1,0 +1,22 @@
+{
+  "domains": {
+    "web.whatsapp.com": {
+      "masterEnabled": true,
+      "selectors": [
+        {
+          "applyDirection": false,
+          "applyTextAlign": true,
+          "autoApply": true,
+          "builder": { "type": "text" },
+          "contentSelector": "",
+          "description": "WhatsApp incoming messages",
+          "forceRTL": true,
+          "id": "whatsapp_message_in",
+          "isEnabled": true,
+          "selector": ".message-in"
+        }
+      ]
+    }
+  },
+  "version": "1.0.0"
+}

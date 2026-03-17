@@ -1,0 +1,21 @@
+{
+  "domains": {
+    "gemini.google.com": {
+      "loadDelay": 3000,
+      "masterEnabled": true,
+      "selectors": [
+        {
+          "applyDirection": true,
+          "applyTextAlign": true,
+          "autoApply": true,
+          "description": "Gemini response containers",
+          "forceRTL": false,
+          "id": "gemini_default",
+          "isEnabled": true,
+          "selector": "[id^=\"model-response-message\"]"
+        }
+      ]
+    }
+  },
+  "version": "1.0.0"
+}
