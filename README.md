@@ -8,19 +8,19 @@ Community-maintained RTL configuration files for the [Multi-RTL](https://chromew
 |------|------|
 | ChatGPT | `multi-rtl_config_ChatGPT.json` |
 | Claude | `multi-rtl_config_Claude.json` |
+| Claude Code (Web) | `multi-rtl_config_ClaudeCode.json` |
 | Gemini | `multi-rtl_config_Gemini.json` |
 | Kimi | `multi-rtl_config_Kimi.json` |
 | NotebookLM | `multi-rtl_config_NotebookLM.json` |
+| Perplexity | `multi-rtl_config_Perplexity.json` |
 | Slack | `multi-rtl_config_Slack.json` |
 | WhatsApp | `multi-rtl_config_WhatsApp.json` |
 
 ## How to use
 
-1. Download a config JSON file
-2. Open the Multi-RTL extension popup
-3. Click **Import Config** and select the file
+The easiest way: open the Multi-RTL extension popup, click **Import Config**, and choose any config from the list — it imports directly with one click.
 
-Or use the **Import Config** button in the extension — it lists all available community configs for one-click import.
+You can also browse and download configs from the [Configuration Portal](https://multi-rtl.asia-digital.online/#portal) on the Multi-RTL website.
 
 ## Contributing
 

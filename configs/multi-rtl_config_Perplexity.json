@@ -1,0 +1,228 @@
+{
+  "domains": {
+    "www.perplexity.ai": {
+      "masterEnabled": true,
+      "selectors": [
+        {
+          "applyDirection": true,
+          "applyTextAlign": true,
+          "autoApply": true,
+          "builder": {
+            "candidates": [
+              {
+                "startTagText": "<body class=\"md:bg-underlay bg-transparent\" data-modality=\"mouse\">"
+              },
+              {
+                "startTagText": "<main id=\"root\">"
+              },
+              {
+                "startTagText": "<div class=\"border-subtlest ring-subtlest divide-subtlest bg-base\">"
+              },
+              {
+                "startTagText": "<div class=\"isolate flex h-dvh\">"
+              },
+              {
+                "startTagText": "<div class=\"flex size-full flex-1 duration-normal ease-in-out\">"
+              },
+              {
+                "startTagText": "<div class=\"erp-tab:p-0 erp-tab:gap-0 isolate flex h-auto max-h-screen min-w-0 grow flex-col\">"
+              },
+              {
+                "startTagText": "<div class=\"@container/main relative isolate min-h-0 flex-1 overflow-clip bg-clip-border border-subtlest ring-subtlest divide-subtlest bg-base\">"
+              },
+              {
+                "startTagText": "<div class=\"mx-auto flex w-full flex-col h-full\">"
+              },
+              {
+                "startTagText": "<div dir=\"ltr\" data-orientation=\"horizontal\" class=\"contents\">"
+              },
+              {
+                "startTagText": "<div class=\"scrollable-container flex flex-1 basis-0 overflow-auto [scrollbar-gutter:stable] scrollbar-subtle\">"
+              },
+              {
+                "startTagText": "<div class=\"mx-auto size-full max-w-none\">"
+              },
+              {
+                "startTagText": "<div class=\"bg-base isolate p-md md:p-lg erp-sidecar:pt-0 erp-mobile-sidecar:pt-lg erp-mobile-sidecar:pb-[100px]\">"
+              },
+              {
+                "startTagText": "<div class=\"mx-auto flex flex-col pointer-events-auto max-w-threadContentWidth gap-md md:gap-lg\">"
+              },
+              {
+                "startTagText": "<div class=\"flex flex-col gap-y-md md:gap-y-lg\">"
+              },
+              {
+                "startTagText": "<div>"
+              },
+              {
+                "startTagText": "<div>"
+              },
+              {
+                "startTagText": "<div class=\"flex flex-col gap-md md:gap-lg w-full\">"
+              },
+              {
+                "startTagText": "<div data-state=\"active\" data-orientation=\"horizontal\" role=\"tabpanel\" aria-labelledby=\"radix-:r93:-trigger-default\" id=\"radix-:r93:-content-default\" tabindex=\"0\" class=\"focus:outline-none\">"
+              },
+              {
+                "startTagText": "<div class=\"flex flex-col gap-y-md md:gap-y-lg\">"
+              },
+              {
+                "startTagText": "<div class=\"gap-y-lg flex flex-col\">"
+              },
+              {
+                "startTagText": "<div>"
+              },
+              {
+                "startTagText": "<div class=\"relative font-sans text-base text-foreground selection:bg-super/50 selection:text-foreground dark:selection:bg-super/10 dark:selection:text-super bg-transparent\">"
+              },
+              {
+                "startTagText": "<div class=\"min-w-0 break-words [word-break:break-word]\">"
+              },
+              {
+                "startTagText": "<div dir=\"auto\" id=\"markdown-content-0\" class=\"gap-y-md after:clear-both after:block after:content-['']\">"
+              },
+              {
+                "startTagText": "<div class=\"has-inline-images my-2 first:mt-0 [&amp;:has([data-inline-type=image])+&amp;:has([data-inline-type=image])_[data-inline-type=image]]:hidden [&amp;:has(table)_[data-inline-type=image]]:hidden\">"
+              },
+              {
+                "startTagText": "<div class=\"relative\">"
+              },
+              {
+                "startTagText": "<div class=\"prose dark:prose-invert inline leading-relaxed break-words min-w-0 [word-break:break-word] prose-strong:font-medium visRefresh2026Fonts:prose-strong:font-bold [&amp;_>*:first-child]:mt-0 [&amp;_>*:last-child]:mb-0\">"
+              },
+              {
+                "startTagText": "<p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:pb-2\">"
+              }
+            ],
+            "propertyState": {
+              "attributes": [],
+              "classes": []
+            },
+            "selectedIndex": 23,
+            "type": "inspector"
+          },
+          "contentSelector": "",
+          "description": "הודעות הסוכן בשיחה",
+          "forceRTL": false,
+          "id": "sel_1771154837411_ktx5vrggy",
+          "isEnabled": true,
+          "selector": "div.gap-y-md.after\\:clear-both.after\\:block.after\\:content-\\[\\'\\'\\]"
+        },
+        {
+          "applyDirection": true,
+          "applyTextAlign": true,
+          "autoApply": true,
+          "builder": {
+            "candidates": [
+              {
+                "startTagText": "<body class=\"md:bg-underlay bg-transparent\" data-modality=\"mouse\">"
+              },
+              {
+                "startTagText": "<main id=\"root\">"
+              },
+              {
+                "startTagText": "<div class=\"border-subtlest ring-subtlest divide-subtlest bg-base\">"
+              },
+              {
+                "startTagText": "<div class=\"isolate flex h-dvh\">"
+              },
+              {
+                "startTagText": "<div class=\"flex size-full flex-1 duration-normal ease-in-out\">"
+              },
+              {
+                "startTagText": "<div class=\"erp-tab:p-0 erp-tab:gap-0 isolate flex h-auto max-h-screen min-w-0 grow flex-col\">"
+              },
+              {
+                "startTagText": "<div class=\"@container/main relative isolate min-h-0 flex-1 overflow-clip bg-clip-border border-subtlest ring-subtlest divide-subtlest bg-base\">"
+              },
+              {
+                "startTagText": "<div class=\"mx-auto flex w-full flex-col h-full\">"
+              },
+              {
+                "startTagText": "<div dir=\"ltr\" data-orientation=\"horizontal\" class=\"contents\">"
+              },
+              {
+                "startTagText": "<div class=\"scrollable-container flex flex-1 basis-0 overflow-auto [scrollbar-gutter:stable] scrollbar-subtle\">"
+              },
+              {
+                "startTagText": "<div class=\"mx-auto size-full max-w-none\">"
+              },
+              {
+                "startTagText": "<div class=\"bg-base isolate p-md md:p-lg erp-sidecar:pt-0 erp-mobile-sidecar:pt-lg erp-mobile-sidecar:pb-[100px]\">"
+              },
+              {
+                "startTagText": "<div class=\"mx-auto flex flex-col pointer-events-auto max-w-threadContentWidth gap-md md:gap-lg\">"
+              },
+              {
+                "startTagText": "<div class=\"flex flex-col gap-y-md md:gap-y-lg\">"
+              },
+              {
+                "startTagText": "<div>"
+              },
+              {
+                "startTagText": "<div>"
+              },
+              {
+                "startTagText": "<div class=\"flex flex-col gap-md md:gap-lg w-full\">"
+              },
+              {
+                "startTagText": "<div data-state=\"active\" data-orientation=\"horizontal\" role=\"tabpanel\" aria-labelledby=\"radix-:r93:-trigger-default\" id=\"radix-:r93:-content-default\" tabindex=\"0\" class=\"focus:outline-none\">"
+              },
+              {
+                "startTagText": "<div class=\"flex flex-col gap-y-md md:gap-y-lg\">"
+              },
+              {
+                "startTagText": "<div class=\"bg-base erp-sidecar:pt-0 erp-mobile-sidecar:pt-0\">"
+              },
+              {
+                "startTagText": "<div class=\"relative z-10\">"
+              },
+              {
+                "startTagText": "<div class=\"group relative flex items-end gap-0.5\">"
+              },
+              {
+                "startTagText": "<div class=\"relative min-w-0 flex-1 flex justify-end\">"
+              },
+              {
+                "startTagText": "<div class=\"flex items-start gap-2\">"
+              },
+              {
+                "startTagText": "<div class=\"group/title relative inline-flex flex-col\">"
+              },
+              {
+                "startTagText": "<div>"
+              },
+              {
+                "startTagText": "<div>"
+              },
+              {
+                "startTagText": "<div>"
+              },
+              {
+                "startTagText": "<h1 class=\"group/query relative whitespace-pre-line !text-wrap break-words [word-break:break-word] font-sans text-base text-foreground selection:bg-super/50 selection:text-foreground dark:selection:bg-super/10 dark:selection:text-super bg-transparent\">"
+              },
+              {
+                "startTagText": "<div class=\"flex min-w-[48px] items-center justify-center bg-offset text-foreground rounded-2xl p-3 font-sans text-base font-normal select-none max-w-[600px]\">"
+              },
+              {
+                "startTagText": "<span class=\"select-text\">"
+              }
+            ],
+            "propertyState": {
+              "attributes": [],
+              "classes": []
+            },
+            "selectedIndex": 24,
+            "type": "inspector"
+          },
+          "contentSelector": "",
+          "description": "הודעות המשתמש בשיחה",
+          "forceRTL": false,
+          "id": "sel_1771154899154_auiurya06",
+          "isEnabled": true,
+          "selector": "div.group\\/title.relative.inline-flex.flex-col"
+        }
+      ]
+    }
+  }
+}

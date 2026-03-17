@@ -1,9 +1,11 @@
 [
   { "id": "chatgpt", "name": "ChatGPT", "file": "multi-rtl_config_ChatGPT.json" },
   { "id": "claude", "name": "Claude", "file": "multi-rtl_config_Claude.json" },
+  { "id": "claudecode", "name": "Claude Code (Web)", "file": "multi-rtl_config_ClaudeCode.json" },
   { "id": "gemini", "name": "Gemini", "file": "multi-rtl_config_Gemini.json" },
   { "id": "kimi", "name": "Kimi", "file": "multi-rtl_config_Kimi.json" },
   { "id": "notebooklm", "name": "NotebookLM", "file": "multi-rtl_config_NotebookLM.json" },
+  { "id": "perplexity", "name": "Perplexity", "file": "multi-rtl_config_Perplexity.json" },
   { "id": "slack", "name": "Slack", "file": "multi-rtl_config_Slack.json" },
   { "id": "whatsapp", "name": "WhatsApp", "file": "multi-rtl_config_WhatsApp.json" }
 ]
