@@ -1,0 +1,192 @@
+{
+  "domains": {
+    "aistudio.google.com": {
+      "loadDelay": 3000,
+      "masterEnabled": true,
+      "selectors": [
+        {
+          "applyDirection": true,
+          "applyTextAlign": true,
+          "autoApply": true,
+          "builder": {
+            "candidates": [
+              {
+                "startTagText": "<body class=\"light-theme\">"
+              },
+              {
+                "startTagText": "<app-root ng-version=\"0.0.0-PLACEHOLDER\">"
+              },
+              {
+                "startTagText": "<ms-app _nghost-ng-c211619364 class=\"ng-tns-c211619364-0 ng-star-inserted\">"
+              },
+              {
+                "startTagText": "<div _ngcontent-ng-c211619364 class=\"banner-and-app-container ng-tns-c211619364-0\">"
+              },
+              {
+                "startTagText": "<div _ngcontent-ng-c211619364 class=\"makersuite-layout ng-tns-c211619364-0\">"
+              },
+              {
+                "startTagText": "<div _ngcontent-ng-c211619364 role=\"main\" class=\"layout-wrapper ng-tns-c211619364-0\">"
+              },
+              {
+                "startTagText": "<div _ngcontent-ng-c211619364 tabindex=\"-1\" class=\"layout-main ng-tns-c211619364-0\">"
+              },
+              {
+                "startTagText": "<span _ngcontent-ng-c211619364 class=\"router-outlet-wrapper ng-tns-c211619364-0\">"
+              },
+              {
+                "startTagText": "<ms-prompt-renderer class=\"ng-star-inserted\">"
+              },
+              {
+                "startTagText": "<ms-chunk-editor _nghost-ng-c2966029 class=\"ng-star-inserted\">"
+              },
+              {
+                "startTagText": "<section _ngcontent-ng-c2966029 class=\"chunk-editor-main\">"
+              },
+              {
+                "startTagText": "<div _ngcontent-ng-c2966029 class=\"chat-container\">"
+              },
+              {
+                "startTagText": "<div _ngcontent-ng-c2966029 class=\"chat-view-container ng-star-inserted\">"
+              },
+              {
+                "startTagText": "<ms-chat-session _ngcontent-ng-c2966029 _nghost-ng-c118357047 class=\"ng-star-inserted\">"
+              },
+              {
+                "startTagText": "<ms-autoscroll-container _ngcontent-ng-c118357047 tabindex=\"-1\" class=\"hide-scrollbar\" _nghost-ng-c1049868924>"
+              },
+              {
+                "startTagText": "<div _ngcontent-ng-c1049868924>"
+              },
+              {
+                "startTagText": "<div _ngcontent-ng-c118357047 class=\"chat-session-content\">"
+              },
+              {
+                "startTagText": "<ms-chat-turn _ngcontent-ng-c118357047 _nghost-ng-c3421401705 id=\"turn-E758AEAC-BB21-4B26-90A4-D48898B33A77\" class=\"ng-star-inserted\">"
+              },
+              {
+                "startTagText": "<div _ngcontent-ng-c3421401705 tabindex=\"-1\" cdkmonitorsubtreefocus class=\"chat-turn-container code-block-aligner model render ng-star-inserted cdk-focused cdk-mouse-focused\">"
+              },
+              {
+                "startTagText": "<div _ngcontent-ng-c3421401705 class=\"actions-container\">"
+              },
+              {
+                "startTagText": "<div _ngcontent-ng-c3421401705 class=\"actions hover-or-edit\">"
+              },
+              {
+                "startTagText": "<button _ngcontent-ng-c3421401705 ms-button variant=\"icon-borderless\" mattooltipposition=\"below\" class=\"mat-mdc-tooltip-trigger toggle-edit-button ms-button-borderless ms-button-icon ng-star-inserted\" aria-label=\"Edit\" jslog=\"269715;track:generic_click,impression;mutable:true\" aria-disabled=\"false\">"
+              },
+              {
+                "startTagText": "<span _ngcontent-ng-c3421401705 class=\"material-symbols-outlined notranslate ms-button-icon-symbol ng-star-inserted\" aria-hidden=\"true\">"
+              },
+              {
+                "startTagText": "<button _ngcontent-ng-c3421401705 ms-button variant=\"icon-borderless\" name=\"rerun-button\" mattooltipposition=\"below\" class=\"mat-mdc-tooltip-trigger rerun-button ms-button-borderless ms-button-icon ng-star-inserted\" aria-label=\"Rerun this turn\" jslog=\"228331;track:generic_click,impression\" aria-disabled=\"false\">"
+              },
+              {
+                "startTagText": "<svg _ngcontent-ng-c3421401705 xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" class=\"ng-star-inserted\">"
+              },
+              {
+                "startTagText": "<g _ngcontent-ng-c3421401705 clip-path=\"url(#clip0_10012_165935)\">"
+              },
+              {
+                "startTagText": "<path _ngcontent-ng-c3421401705 d=\"M10 17.5833C10 16.5278 9.79861 15.5417 9.39583 14.625C9.00694 13.7083 8.46528 12.9097 7.77083 12.2292C7.09028 11.5347 6.29167 10.9931 5.375 10.6042C4.45833 10.2014 3.47222 10 2.41667 10C3.47222 10 4.45833 9.80556 5.375 9.41667C6.29167 9.01389 7.09028 8.47222 7.77083 7.79167C8.46528 7.09722 9.00694 6.29167 9.39583 5.375C9.79861 4.44444 10 3.45833 10 2.41667C10 3.45833 10.1944 4.44444 10.5833 5.375C10.9861 6.29167 11.5278 7.09722 12.2083 7.79167C12.9028 8.47222 13.7083 9.01389 14.625 9.41667C15.5556 9.80556 16.5417 10 17.5833 10C16.5417 10 15.5556 10.2014 14.625 10.6042C13.7083 10.9931 12.9028 11.5347 12.2083 12.2292C11.5278 12.9097 10.9861 13.7083 10.5833 14.625C10.1944 15.5417 10 16.5278 10 17.5833Z\" fill=\"url(#paint0_linear_10012_165935)\">"
+              },
+              {
+                "startTagText": "<defs _ngcontent-ng-c3421401705>"
+              },
+              {
+                "startTagText": "<lineargradient _ngcontent-ng-c3421401705 id=\"paint0_linear_10012_165935\" x1=\"10\" y1=\"0\" x2=\"10\" y2=\"20\" gradientUnits=\"userSpaceOnUse\">"
+              },
+              {
+                "startTagText": "<stop _ngcontent-ng-c3421401705 stop-color=\"#87A9FF\">"
+              },
+              {
+                "startTagText": "<stop _ngcontent-ng-c3421401705 offset=\"0.44\" stop-color=\"#A7B8EE\">"
+              },
+              {
+                "startTagText": "<stop _ngcontent-ng-c3421401705 offset=\"0.88\" stop-color=\"#F1DCC7\">"
+              },
+              {
+                "startTagText": "<clippath _ngcontent-ng-c3421401705 id=\"clip0_10012_165935\">"
+              },
+              {
+                "startTagText": "<rect _ngcontent-ng-c3421401705 width=\"20\" height=\"20\" fill=\"white\">"
+              },
+              {
+                "startTagText": "<ms-chat-turn-options _ngcontent-ng-c3421401705 mattooltip=\"More options\" mattooltipposition=\"below\" class=\"mat-mdc-tooltip-trigger\" aria-describedby=\"cdk-describedby-message-ng-1-88\" cdk-describedby-host=\"ng-1\">"
+              },
+              {
+                "startTagText": "<div>"
+              },
+              {
+                "startTagText": "<button ms-button variant=\"icon-borderless\" aria-label=\"Open options\" class=\"mat-mdc-menu-trigger ms-button-borderless ms-button-icon\" jslog=\"228332;track:generic_click,impression\" aria-disabled=\"false\" aria-haspopup=\"menu\" aria-expanded=\"false\">"
+              },
+              {
+                "startTagText": "<span class=\"material-symbols-outlined notranslate ms-button-icon-symbol ng-star-inserted\" aria-hidden=\"true\">"
+              },
+              {
+                "startTagText": "<mat-menu>"
+              },
+              {
+                "startTagText": "<div _ngcontent-ng-c3421401705 class=\"virtual-scroll-container model-prompt-container\" data-turn-role=\"Model\">"
+              },
+              {
+                "startTagText": "<div _ngcontent-ng-c3421401705>"
+              },
+              {
+                "startTagText": "<div _ngcontent-ng-c3421401705 msheightchanged class=\"turn-content\">"
+              },
+              {
+                "startTagText": "<ms-prompt-chunk _ngcontent-ng-c3421401705 _nghost-ng-c4069078247 class=\"text-chunk ng-star-inserted\" id=\"E758AEAC-BB21-4B26-90A4-D48898B33A77\">"
+              },
+              {
+                "startTagText": "<ms-text-chunk _ngcontent-ng-c4069078247 _nghost-ng-c740807465 class=\"ng-star-inserted\">"
+              },
+              {
+                "startTagText": "<ms-cmark-node _ngcontent-ng-c740807465 class=\"cmark-node v3-font-body ng-star-inserted\" _nghost-ng-c2759077187>"
+              },
+              {
+                "startTagText": "<p _ngcontent-ng-c2759077187 class=\"ng-star-inserted\">"
+              },
+              {
+                "startTagText": "<ms-cmark-node _ngcontent-ng-c2759077187 _nghost-ng-c2759077187>"
+              },
+              {
+                "startTagText": "<span _ngcontent-ng-c2759077187 class=\"ng-star-inserted\">"
+              },
+              {
+                "startTagText": "<br _ngcontent-ng-c2759077187 class=\"ng-star-inserted\">"
+              }
+            ],
+            "propertyState": {
+              "attributes": [
+                {
+                  "checked": false,
+                  "mode": "equals",
+                  "name": "p",
+                  "value": ""
+                },
+                {
+                  "checked": false,
+                  "mode": "equals",
+                  "name": "_ngcontent-ng-c2759077187",
+                  "value": ""
+                }
+              ],
+              "classes": []
+            },
+            "selectedIndex": 45,
+            "type": "inspector"
+          },
+          "contentSelector": "",
+          "description": "הודעות בצ'אט",
+          "forceRTL": false,
+          "id": "sel_1778231149275_vlq7gml6a",
+          "isEnabled": true,
+          "selector": "p.ng-star-inserted"
+        }
+      ]
+    }
+  },
+  "version": "1.0.0"
+}
